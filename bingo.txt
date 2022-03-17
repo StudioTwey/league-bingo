@@ -29,6 +29,7 @@ target mutes someone in discord
 says something positive about teammate
 rapidly pings teammate
 vote ff @ 15
+trey explains himself
 
 Cole ints a bronze/silver game
 flames kaeman
