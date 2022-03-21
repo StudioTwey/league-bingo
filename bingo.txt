@@ -40,3 +40,4 @@ negitive kda @ 20
 baron throw
 complains about the game
 pathing...
+"that's crazy"
