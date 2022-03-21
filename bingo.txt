@@ -38,3 +38,5 @@ misses a free kill
 positive kda @ 20
 negitie kda @ 20
 baron throw
+complains about the game
+pathing...
