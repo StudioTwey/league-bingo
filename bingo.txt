@@ -36,5 +36,3 @@ jungle misses smite
 "trades"
 1 for 1
 misses a free kill
-10 deaths before 10mins
-10 kills before 10mins
