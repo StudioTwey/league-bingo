@@ -16,7 +16,6 @@ Elo check
 Dies and pans camera to jungle
 Blames jungle
 "I win this"
-"I win this when/if __"
 Disables or enables chat
 suicides for a tower
 "worth"
@@ -28,7 +27,7 @@ target mutes someone in discord
 says something positive about teammate
 rapidly pings teammate
 vote ff @ 15
-trey explains himself
+__ explains themselves
 Cole ints a bronze/silver game
 flames kaeman
 "hey aubrey"
@@ -36,3 +35,6 @@ jungle misses smite
 "trades"
 1 for 1
 misses a free kill
+positive kda @ 20
+negitie kda @ 20
+baron throw
