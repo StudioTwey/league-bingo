@@ -35,8 +35,8 @@ jungle misses smite
 "twey-ades"
 1 for 1
 misses a free kill
-positive kda @ 20
-negitive kda @ 20
+positive kd @ 20
+negitive kd @ 20
 baron throw
 complains about the game
 pathing...
