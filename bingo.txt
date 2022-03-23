@@ -9,7 +9,7 @@ outplay
 Flames teammate
 "__ is so braindead"
 "whaaaaaaat?"
-"ff @ 15"
+"ff"
 flames duo partner
 "that's what that does"
 Elo check
@@ -26,7 +26,7 @@ has a human response to stress
 target mutes someone in discord
 says something positive about teammate
 rapidly pings teammate
-vote ff @ 15
+vote ff
 __ explains themselves
 Cole ints a bronze/silver game
 flames kaeman
