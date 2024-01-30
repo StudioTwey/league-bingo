@@ -24,42 +24,36 @@
     "cope",
     "cap"
   ],
-  "aubrey": [
-    "hey aubrey"
-  ],
-  "kaeman": [
-    "flames kaeman"
-  ],
-  "league": [
-    "My teammates",
-    "<100 CS at 20",
-    ">100 cs at 20",
-    "Flames teammate",
-    "ff",
-    "flames duo partner",
-    "Elo check",
-    "Dies and pans camera to jungle",
-    "Dies and pans camera to jungle",
-    "Blames jungle",
-    "Disables or enables chat",
-    "flames player carrying him",
-    "rapidly pings teammate",
-    "vote ff",
-    "jungle misses smite",
-    "twey-ades",
-    "misses a free kill",
-    "positive kd @ 20",
-    "negitive kd @ 20",
-    "baron throw",
-    "types unprovoked",
-    "gets flamed by teammates"
-  ],
-  "tft": [
-    "Didn't get what they needed to win"
-  ],
-  "soulsLike": [
-    "Dies to gravity",
-    "this is the one",
-    "collision..."
-  ]
+  "exclusive": {
+    "league": [
+      "My teammates",
+      "<100 CS at 20",
+      ">100 cs at 20",
+      "Flames teammate",
+      "ff",
+      "flames duo partner",
+      "Elo check",
+      "Dies and pans camera to jungle",
+      "Dies and pans camera to jungle",
+      "Blames jungle",
+      "Disables or enables chat",
+      "flames player carrying him",
+      "rapidly pings teammate",
+      "vote ff",
+      "jungle misses smite",
+      "twey-ades",
+      "misses a free kill",
+      "positive kd @ 20",
+      "negitive kd @ 20",
+      "baron throw",
+      "types unprovoked",
+      "gets flamed by teammates"
+    ],
+    "tft": ["Didn't get what they needed to win"],
+    "soulsLike": ["Dies to gravity", "this is the one", "collision..."]
+  },
+  "inclusive": {
+    "aubrey": ["hey aubrey"],
+    "kaeman": ["flames kaeman"]
+  }
 }
