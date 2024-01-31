@@ -1,11 +1,17 @@
 {
   "generic": [
     "That killed me?",
+    "'There is  no way'",
+    "Cognitive dissonance",
+    "I'm done with __",
+    "Man-splains",
     "__ is so broken",
+    "Accidental self own",
+    "Nerf __",
     "__ item is so broken",
     "outplay",
-    "outplay",
     "__ is so braindead",
+    "Theres no counter play",
     "whaaaaaaat?",
     "thats what that does",
     "I win this",
@@ -21,8 +27,12 @@
     "pathing...",
     "thats crazy",
     "complains about the game",
+    "accidently hits the wrong key",
     "cope",
-    "cap"
+    "cap",
+    "blames lag",
+    "'This is fine'...it wasn't fine",
+    "gets jump scared"
   ],
   "exclusive": {
     "league": [
@@ -40,6 +50,7 @@
       "flames player carrying him",
       "rapidly pings teammate",
       "vote ff",
+      "'outplay'",
       "jungle misses smite",
       "twey-ades",
       "misses a free kill",
@@ -49,11 +60,61 @@
       "types unprovoked",
       "gets flamed by teammates"
     ],
-    "tft": ["Didn't get what they needed to win"],
-    "soulsLike": ["Dies to gravity", "this is the one", "collision..."]
+    "tft": [
+      "Didn't get what they needed to win",
+      "Quick 8th",
+      "Top 4",
+      "Trey gives 'sage' advice",
+      "I'm strong now",
+      "He has THAT?",
+      "Rolls down for nothing",
+      "This comp is so broken",
+      "Claims __ is broken after losing to it",
+      "Wins when trying to lose streak",
+      "Lose when trying to win streak",
+      "Gets 3 starred",
+      "Uses hacks",
+      "Just one more __",
+      "Elo check",
+      "'200iq' __",
+      "'Pivots'",
+      "Perfect win streak",
+      "Perfect loss streak",
+      "Gets contested",
+      "Item on wrong champion"
+    ],
+    "soulsLike": [
+      "Dies to gravity",
+      "this is the run",
+      "collision...",
+      "Lambasted by ad's on the way to the boss",
+      "Panic rolling",
+      "Dies immediately after walking into boss",
+      "'Just warming up'",
+      "Gets hit by a boss's first attack",
+      "This boss is easy",
+      "Inhuman noises",
+      "Curses loudly",
+      "Gets hit while drinking estus",
+      "Mis-click healing",
+      "Tries to parry and takes more damage",
+      "'I live this'",
+      "Dies to basic enemy",
+      "Takes break after boss",
+      "*Deep breath*",
+      "Dies to boss with 1 hit left",
+      "Distractedly walks into danger" 
+    ]
   },
   "inclusive": {
-    "aubrey": ["hey aubrey"],
-    "kaeman": ["flames kaeman"]
+    "aubrey": ["hey aubrey", "__ is up today"],
+    "trey": [
+      "Bout to run some degen shit",
+      "Gameplay degrades as debate rages"
+    ],
+    "kaeman": ["flames kaeman"],
+    "tom": ["Tom cringes", "Tom gives sage adivce"],
+    "tyler": ["Mutes only Philip", "Passive aggressive about content"],
+    "philip": ["'Consistent' audio"]
   }
 }
