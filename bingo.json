@@ -106,7 +106,8 @@
       "Takes break after boss",
       "*Deep breath*",
       "Dies to boss with 1 hit left",
-      "Distractedly walks into danger" 
+      "Distractedly walks into danger",
+      "Says 'Okay' aggressively after dying"
     ]
   },
   "inclusive": {
