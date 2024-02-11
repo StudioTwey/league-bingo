@@ -34,7 +34,8 @@
     "'This is fine'...it wasn't fine",
     "gets jump scared",
     "__ is cursed",
-    "remembers the good'ole days"
+    "remembers the good'ole days",
+    "can't read"
   ],
   "exclusive": {
     "league": [
@@ -110,6 +111,16 @@
       "Says 'Okay' aggressively after dying"
     ]
   },
+  "tamer": [
+      "unexpected tentacle",
+      "audible response from the player",
+      "misplay",
+      "somehow loses clothes",
+      "'noises'",
+      "actually competent card game",
+      "'if this wasnt a porn game'",
+      "true mastry of the system"
+  ],
   "inclusive": {
     "aubrey": ["hey aubrey", "__ is up today"],
     "trey": [
