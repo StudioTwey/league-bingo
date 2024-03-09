@@ -109,9 +109,8 @@
       "Dies to boss with 1 hit left",
       "Distractedly walks into danger",
       "Says 'Okay' aggressively after dying"
-    ]
-  },
-  "tamer": [
+    ],
+    "tamer": [
       "unexpected tentacle",
       "audible response from the player",
       "misplay",
@@ -120,49 +119,55 @@
       "actually competent card game",
       "'if this wasnt a porn game'",
       "true mastry of the system"
-  ],
-  "hellDivers": [
-    "Gets killed by mortar",
-    "Gets killed by rocket",
-    "Gets killed by cannon turret",
-    "Kills teammate/self with grenade",
-    "Falls into hole",
-    "Kills Hulk/Bile Titan/Tank with drop pod",
-    "Railgun explodes in hands",
-    "Shoots teammate on accident",
-    "Kills teammate/self with 120mm/380mm barrage",
-    "Kills self trying to destroy bughole/factory",
-    "Says 'What's going on?!?!' after large explosions or tons of gunfire",
-    "Kills teammate or self with hellbomb",
-    "Limb gets blown off after death",
-    "Dies from impact",
-    "Asks 'What happened to the resupply?'",
-    "Shreiks",
-    "Kills teammate/self with sentry (excluding mortar)",
-    "Says 'How is it not dead?!?'",
-    "Kills teammate with own drop pod",
-    "Gets obliterated by enemy cannon turret",
-    "Asks 'Where are we going?' or 'What are we doing?'",
-    "Full team fails to extract",
-    "Fails mission",
-    "Gets killed by bile titan toxin or spitter toxin",
-    "Gets slowed by planet flora",
-    "Drowns",
-    "Kills teammate with strategem",
-    "Dies to landmines",
-    "Calls someone a rat",
-    "Says 'THE SAMPLES!'",
-    "Ragdolls after a dive",
-    "Says 'What killed me?'"
-  ],
+    ],
+    "hellDivers": [
+      "Gets killed by mortar",
+      "Gets killed by rocket",
+      "Gets killed by cannon turret",
+      "Kills teammate/self with grenade",
+      "Falls into hole",
+      "Kills Hulk/Bile Titan/Tank with drop pod",
+      "Railgun explodes in hands",
+      "Shoots teammate on accident",
+      "Kills teammate/self with 120mm/380mm barrage",
+      "Kills self trying to destroy bughole/factory",
+      "Says 'What's going on?!?!' after large explosions or tons of gunfire",
+      "Kills teammate or self with hellbomb",
+      "Limb gets blown off after death",
+      "Dies from impact",
+      "Asks 'What happened to the resupply?'",
+      "Shreiks",
+      "Kills teammate/self with sentry (excluding mortar)",
+      "Says 'How is it not dead?!?'",
+      "Kills teammate with own drop pod",
+      "Gets obliterated by enemy cannon turret",
+      "Asks 'Where are we going?' or 'What are we doing?'",
+      "Full team fails to extract",
+      "Fails mission",
+      "Gets killed by bile titan toxin or spitter toxin",
+      "Gets slowed by planet flora",
+      "Drowns",
+      "Kills teammate with strategem",
+      "Dies to landmines",
+      "Calls someone a rat",
+      "Says 'THE SAMPLES!'",
+      "Ragdolls after a dive",
+      "Says 'What killed me?'"
+    ]
+  },
+
   "inclusive": {
     "aubrey": ["hey aubrey", "__ is up today"],
-    "trey": [
-      "Gameplay degrades as debate rages"
-    ],
+    "trey": ["Gameplay degrades as debate rages"],
     "kaeman": ["flames kaeman", "Kaeman has a house*"],
     "tom": ["Tom cringes", "Tom gives sage adivce"],
     "tyler": ["Passive aggressive about content", "All media is a scam"],
-    "philip": ["'Consistent' audio", "Philip says something vaguely racist", "Mutes only Philip",  "Philip is rich", "Trust fund"]
+    "philip": [
+      "'Consistent' audio",
+      "Philip says something vaguely racist",
+      "Mutes only Philip",
+      "Philip is rich",
+      "Trust fund"
+    ]
   }
 }
